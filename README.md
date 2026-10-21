@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/nitinol-shape-memory-explainer/
 
+Repository: https://github.com/mizcausevic-dev/nitinol-shape-memory-explainer
+
 ## What this is
 
 An interactive anatomy plate for Nitinol Shape Memory. Play, scrub, or jump the five stages. The same frame always draws the same picture.
